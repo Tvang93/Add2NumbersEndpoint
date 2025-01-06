@@ -9,4 +9,5 @@ Brief Description:
     Example results, "The sum of 2 and 2 is 4."
     Utilize Postman to facilitate the data retrieval process.
 
-Peer Review:
+Peer Review: Karen Cadavos. 
+Works well! tested on negative numbers as well and works!
